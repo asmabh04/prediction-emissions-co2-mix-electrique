@@ -61,7 +61,7 @@ pip install numpy pandas matplotlib seaborn scipy
    git clone https://github.com/TON-PSEUDO/prediction-emissions-co2-mix-electrique.git
    ```
 2. Place `train.csv` et `prev.csv` dans un dossier de données et modifie `path_to_data` dans le notebook.
-3. Ouvre `notebook-final.ipynb` avec Jupyter Notebook, JupyterLab ou VS Code, puis exécute les cellules dans l'ordre.
+3. Ouvre `prediction-emissions-co2-mix-electrique.ipynb` avec Jupyter Notebook, JupyterLab ou VS Code, puis exécute les cellules dans l'ordre.
 
 ## Auteures
 
